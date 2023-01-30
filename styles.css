@@ -1,0 +1,9 @@
+@media (max-width: 400px) {
+  .logo {
+    max-width: 180px;
+  }
+}
+
+body {
+  background-color: black !important;
+}
